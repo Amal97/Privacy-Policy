@@ -1,32 +1,38 @@
-# Privacy-Policy
-Privacy Policy
+ClipScript Privacy Policy
+Last updated: 27/07/2024
 
-This privacy policy applies to the CaptionAI app and explains how we collect, use, and share personal data from users of the app.
+At ClipScript, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines how we collect, use, and safeguard your data when you use our ClipScript application.
 
-Personal Data We Collect
+1. Information We Collect
+Clipboard Data: We temporarily access and process text data from your clipboard when you use our text manipulation functions. This data is processed locally on your device and is not stored or transmitted by us.
+User-Created Functions: Any custom functions or scripts you create within the app are stored locally on your device.
+Usage Data: We may collect non-personal, anonymous usage data such as feature popularity and error logs to improve our service.
 
-We may collect the following personal data from users of the CaptionAI app:
+3. How We Use Your Information
+We use the information we collect to:
 
-Audio recordings: We may collect audio recordings through the app's use of the RECORD_AUDIO permission. These recordings may be used to improve the app's functionality or for other purposes as described in this privacy policy.
-Photos and videos: We may collect photos and videos through the app's use of the CAMERA permission. These photos and videos may be used to improve the app's functionality or for other purposes as described in this privacy policy.
-How We Use Personal Data
+Provide and maintain our Service
+Detect, prevent and address technical issues
+Improve our Service and user experience
 
-We may use the personal data collected through the CaptionAI app for the following purposes:
+3. Data Retention
+ClipScript does not retain any clipboard data after processing. User-created functions and settings are stored locally on your device and retained until you choose to delete them or uninstall the application.
 
-To improve the app's functionality: We may use the audio recordings and photos/videos collected through the app to improve its performance and functionality.
-For research and development: We may use the audio recordings and photos/videos collected through the app for research and development purposes.
-Sharing Personal Data
+4. Data Security
+We prioritize the security of your data and implement industry-standard security measures. However, please be aware that no method of transmission over the internet or electronic storage is 100% secure.
 
-We may share personal data collected through the CaptionAI app with third parties for the following purposes:
+5. Third-Party Services
+ClipScript does not share your data with any third-party services.
 
-To service providers: We may share personal data with service providers who assist us in operating the app and providing services to users.
-As required by law: We may disclose personal data as required by law, such as to comply with a subpoena or similar legal process.
-Data Security
+6. Children's Privacy
+Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
 
-We take reasonable steps to protect the personal data collected through the CaptionAI app from unauthorized access, use, or disclosure. However, no data transmission over the internet or data storage system can be guaranteed to be 100% secure.
+7. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date at the top.
 
-Changes to This Privacy Policy
+8. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
 
-We may update this privacy policy from time to time to reflect changes to our personal data collection and use practices. We encourage users to review this privacy policy periodically for the latest information on our privacy practices.
-
-By using the CaptionAI app, you consent to the collection, use, and sharing of your personal data as described in this privacy policy.
+Email: [Your Contact Email]
+Website: https://www.clipscript.com
+Return to ClipScript Homepage
